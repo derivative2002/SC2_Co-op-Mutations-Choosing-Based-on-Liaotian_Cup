@@ -1,7 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="59ac5899-569f-43d0-acb2-d987492460f7" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/LiaoTianCup - 源代码/LiaoTian_Cup/Resources/background1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LiaoTianCup - 源代码" beforeDir="false" afterPath="$PROJECT_DIR$/LiaoTianCup - 源代码" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LiaoTianCup - 源代码/LiaoTian_Cup/LiaoTian_Cup.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/LiaoTianCup - 源代码/LiaoTian_Cup/LiaoTian_Cup.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LiaoTianCup - 源代码/LiaoTian_Cup/MainWindow.xaml" beforeDir="false" afterPath="$PROJECT_DIR$/LiaoTianCup - 源代码/LiaoTian_Cup/MainWindow.xaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LiaoTianCup - 源代码/LiaoTian_Cup/Resources/R-C-16-9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/LiaoTianCup - 源代码/LiaoTian_Cup/Resources/R-C-16-9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2XNiGFTukjzhvYy0A5gNlT3qmE7" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="59ac5899-569f-43d0-acb2-d987492460f7" name="更改" comment="" />
+      <created>1698475842893</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698475842893</updated>
+      <workItem from="1698475843404" duration="39000" />
+      <workItem from="1698476061731" duration="369000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
